@@ -1,13 +1,13 @@
 # GDA
 
 ## Environment
-We follow the set of https://github.com/zf223669/DiffMotion.git .
-python=3.10.5 pytorch=1.13 pytorch-lighting=1.6.5 hydra-core=1.2.0 CUDAtoolkit=11.7  
+**We follow the set of https://github.com/zf223669/DiffMotion.git: python=3.10.5 pytorch=1.13 pytorch-lighting=1.6.5 hydra-core=1.2.0 CUDAtoolkit=11.7  
 ** We use [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template) for combining the [pytorchLightning](https://www.pytorchlightning.ai/) and [Hydra](https://hydra.cc/).  
 ** Our model architecture is inspirited by the [Pytorch-ts](https://github.com/zalandoresearch/pytorch-ts)  
 
 ### Clone and download the code
-'git clone  ' 
+'git clone https://github.com/LEELLL/GDA-icassp2024.git' 
+
 ### Setting conda environment
 
 1: open the project in PyCharm IDE.  
